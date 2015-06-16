@@ -1,0 +1,24 @@
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Intellij Files
+*.iml
+.idea
+
+# Maven output
+target
+logs
+
+# Other crap
+.DS_Store
+
+# properties file
+travel-inventory.development.properties
+
+dump.rdb
+stdout
+
